@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.dba4ebb0.js",
+    "static/media/voyager.mp3": "/static/media/voyager.c99d61ce48506c10b049.mp3",
+    "static/media/osvetim.png": "/static/media/osvetim.533d6433118a4a2f9d99.png",
+    "static/media/spanek.png": "/static/media/spanek.14473d8b4e77a43a5a54.png",
+    "static/media/spankovaParalíza.png": "/static/media/spankovaParalíza.16602c603a1bac948347.png",
+    "static/media/grafSpánku.png": "/static/media/grafSpánku.ce086b98e41c416c6889.png",
+    "static/media/ufo.png": "/static/media/ufo.98be05df46012355d8f4.png",
+    "static/media/diamant.png": "/static/media/diamant.67ebb1441cd30e616944.png",
+    "static/media/john-lennon.png": "/static/media/john-lennon.7d58dd0a4e349ac6d0f2.png",
+    "static/media/spektrum.png": "/static/media/spektrum.3737f406ee75de33ae88.png",
+    "static/media/viditelne-svetlo.png": "/static/media/viditelne-svetlo.e4c90ceb30302aa1c6cd.png",
+    "index.html": "/index.html",
+    "main.dba4ebb0.js.map": "/static/js/main.dba4ebb0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dba4ebb0.js"
+  ]
+}
